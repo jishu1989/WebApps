@@ -1,6 +1,6 @@
 # Notes
 
-## Python data structures:
+## Python data structures
 
 - What is data structure? Structure that can hold data together.
 - Data structure used to store collection of related data
@@ -12,6 +12,8 @@ lists are created with square brackets[], and elements within a list are separat
     - **dictionary:**
  
 
+## Object Oriented Programming
 
-
+Object Oriented programming breaks things into object and interacts with each other. Objects are created from class. It uses DRY(Don't repeat yourself)
+concept.
 
