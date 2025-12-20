@@ -19,5 +19,5 @@ concept.
 
 What is an object? = an object is an entity that does anything. e.g house,car, bank accounts are objects.  
 
-What is a class? = Class is a template/blueprint for creating objects.
+What is a class? = class is a template/blueprint for creating objects.
 
