@@ -1,6 +1,6 @@
-# Notes
+# Python Notes
 
-## Python data structures
+## Data structures
 
 - What is data structure? Structure that can hold data together.
 - Data structure used to store collection of related data
