@@ -15,5 +15,9 @@ lists are created with square brackets[], and elements within a list are separat
 ## Object Oriented Programming
 
 Object Oriented programming breaks things into object and interacts with each other. Objects are created from class. It uses DRY(Don't repeat yourself)
-concept.
+concept.  
+
+What is an Object? = an object is an entity that does anything. e.g house,car, bank accounts are objects.  
+
+What is a class? = Class is a template/blueprint for creating objects.
 
