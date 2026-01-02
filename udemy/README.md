@@ -43,7 +43,9 @@ What is a self parameter ? --> it is a reference to the current instance of a cl
 class Pets:
     pass  # ---> it doesn't have any methods
 ```
-<img width="858" height="408" alt="image" src="https://github.com/user-attachments/assets/ff024463-b7ad-45de-b733-c6dae8a1eefb" />
+<img width="858" height="408" alt="image" src="https://github.com/user-attachments/assets/ff024463-b7ad-45de-b733-c6dae8a1eefb" />  
+
+**Inheritance:** 
 
 
 
