@@ -29,6 +29,16 @@ Creating an object from a class is called instantiating an object.
 
 **Class:**  
 
+Accessing attribute of a class : ObjectName.Attribute
+
+```
+bls.course = "HTML"
+
+bls.printinfo()  
+
+print(bls.course)  
+```
+
 
 
 
