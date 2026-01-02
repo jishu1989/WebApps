@@ -29,7 +29,6 @@ Creating an object from a class is called instantiating an object.
 
 **Class:**  
 
-<<<<<<< HEAD
 Accessing attribute of a class : ObjectName.Attribute
 
 ```
@@ -38,18 +37,12 @@ bls.course = "HTML"
 bls.printinfo()  
 
 print(bls.course)  
-```
+```  
 
-=======
-What is a self parameter ? --> it is a reference to the current instance of a class. 1st parameter of any instance of class.
-
-```
-class Pets:
-    pass  # ---> it doesn't have any methods
-```
+Class vs Instance variables:
 
 
->>>>>>> 356e7ac31b6d884ce1aab955f8a021a9a7d417d1
+
 
 
 
