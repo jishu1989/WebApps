@@ -27,9 +27,6 @@ What is a class? = class is a template/blueprint for creating objects.
 Creating an object from a class is called instantiating an object.
 <img width="858" height="471" alt="image" src="https://github.com/user-attachments/assets/a727149d-ed4c-486c-b464-a00c4f2573a1" />  
 
-**Class:**  
-
-<<<<<<< HEAD
 Accessing attribute of a class : ObjectName.Attribute
 
 ```
@@ -40,7 +37,6 @@ bls.printinfo()
 print(bls.course)  
 ```
 
-=======
 What is a self parameter ? --> it is a reference to the current instance of a class. 1st parameter of any instance of class.
 
 ```
@@ -49,7 +45,7 @@ class Pets:
 ```
 
 
->>>>>>> 356e7ac31b6d884ce1aab955f8a021a9a7d417d1
+
 
 
 
